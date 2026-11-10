@@ -83,7 +83,7 @@ Through this project, I am developing practical skills in:
 
 Aspiring Frontend Developer | React.js Developer
 
-GitHub: [@sheri](https://github.com/sheri)
+GitHub: [@sheripeter](https://github.com/sheripeter)
 
 ---
 

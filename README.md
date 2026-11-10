@@ -1,16 +1,90 @@
-# React + Vite
+# 🏡 BrightHome – React Landing Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive landing page for **BrightHome Services**, built with React and Vite.
 
-Currently, two official plugins are available:
+This project is the React version of my BrightHome website, developed to practise modern frontend development, reusable components, and responsive user interface design.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🚀 Technologies Used
 
-## React Compiler
+- React.js
+- JavaScript
+- HTML5
+- CSS3
+- Vite
+- Git & GitHub
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## ✨ Project Highlights
 
-## Expanding the ESLint configuration
+- Modern landing page design
+- Component-based React structure
+- Responsive layout for different screen sizes
+- Clean and maintainable frontend code
+- Fast development and production builds using Vite
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📸 Preview
+
+**Live Demo:** Coming soon
+
+**GitHub Repository:** [Brighthome-React](https://github.com/sheri/Brighthome-React)
+
+## 💻 Run This Project Locally
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/sheri/Brighthome-React.git
+   ```
+
+2. Navigate to the project folder:
+
+   ```bash
+   cd Brighthome-React
+   ```
+
+3. Install dependencies:
+
+   ```bash
+   npm install
+   ```
+
+4. Start the development server:
+
+   ```bash
+   npm run dev
+   ```
+
+5. Open the local URL displayed in your terminal.
+
+## 🏗️ Build for Production
+
+```bash
+npm run build
+```
+
+To preview the production build locally:
+
+```bash
+npm run preview
+```
+
+## 📚 What I Learned
+
+Through this project, I am developing practical skills in:
+
+- Building user interfaces with React
+- Understanding component-based architecture
+- Working with Vite
+- Organising frontend project files
+- Preparing React applications for deployment
+
+## 👩‍💻 Developer
+
+**Sheri Peter**
+
+Aspiring Frontend Developer | React.js Developer
+
+GitHub: [@sheri](https://github.com/sheri)
+
+---
+
+⭐ Thank you for visiting my BrightHome React project!
